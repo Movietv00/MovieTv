@@ -1,0 +1,108 @@
+.page-home-redesign {
+    color: #ffffff;
+    background: #000000;
+    border-bottom: 1px solid rgba(128,128,128,.2);
+}
+
+.global-header  {
+    color: #ffffff;
+    background: #000000;
+    border-bottom: 1px solid rgba(128,128,128,.2);
+}
+
+.h-btn.btn-supplemental {
+    color: #ffffff;
+    background: rgba(0,0,0,0);
+    border-color: #f44dfd;
+}
+
+.h-btn.btn-brand {
+    color: #fff;
+    background: #f44dfd;
+}
+
+.page-home-redesign {
+    color: #ffffff;
+}
+
+.global-heade {
+    color: #ffffff;
+}
+
+.helpcenter-logo {
+    color: #ffffff;
+}
+
+.page-home-redesign {
+    color: #000;
+    margin: 0 0 24px;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+}
+
+h1.intro {
+    color: #000;
+    margin: 0 0 24px;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.page-home-redesign {
+    padding: 2px;
+    border-radius: 4px;
+    background: #f44dfd;
+}
+
+.search-control-wrapper {
+    padding: 2px;
+    border-radius: 4px;
+    background: #f44dfd;
+}
+
+.page-home-redesign {
+    padding-top: 12px;
+    margin-bottom: 40px;
+    min-height: 10px;
+}
+
+#categories-placeholder {
+    padding-top: 12px;
+    margin-bottom: 40px;
+    min-height: 10px;
+}
+
+.page-home-redesign {
+    color: #f44dfd;
+}
+
+.category-card:nth-child(1){
+    color: #f44dfd;
+}
+
+.category-header svg{
+    color: #f44dfd;
+}
+
+.page-home-redesign {
+    color: #f44dfd;
+}
+.category-card:nth-child(2){
+    color: #f44dfd;
+}
+.category-header svg {
+    color: #f44dfd;
+}
+.page-home-, .category-card:nth-child(3), .category-header svg {
+    color: #f44dfd;
+}
+
+.h-btn.btn-primary {
+    color: #fff;
+    background: #f44dfd;
+}
+
+.page-home-redesign, .category-card:nth-child(3), .category-header svg {
+    color: #f44dfd;
+}
